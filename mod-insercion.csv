@@ -1,0 +1,25 @@
+"sexo","insercion","TIC","porcentaje"
+"Ambos sexos",TRUE,"Usuario experto",21.8
+"Ambos sexos",TRUE,"Usuario de nivel avanzado",61
+"Ambos sexos",TRUE,"Usuario de nivel básico",17.1
+"Ambos sexos",TRUE,"No usuario de las TIC",0.2
+"Ambos sexos",FALSE,"Usuario experto",22.9
+"Ambos sexos",FALSE,"Usuario de nivel avanzado",56.7
+"Ambos sexos",FALSE,"Usuario de nivel básico",20.2
+"Ambos sexos",FALSE,"No usuario de las TIC",0.2
+"Hombres",TRUE,"Usuario experto",32.3
+"Hombres",TRUE,"Usuario de nivel avanzado",53.5
+"Hombres",TRUE,"Usuario de nivel básico",13.9
+"Hombres",TRUE,"No usuario de las TIC",0.3
+"Hombres",FALSE,"Usuario experto",40.4
+"Hombres",FALSE,"Usuario de nivel avanzado",45.9
+"Hombres",FALSE,"Usuario de nivel básico",13.3
+"Hombres",FALSE,"No usuario de las TIC",0.4
+"Mujeres",TRUE,"Usuario experto",11.8
+"Mujeres",TRUE,"Usuario de nivel avanzado",68.1
+"Mujeres",TRUE,"Usuario de nivel básico",20.1
+"Mujeres",TRUE,"No usuario de las TIC",0
+"Mujeres",FALSE,"Usuario experto",8
+"Mujeres",FALSE,"Usuario de nivel avanzado",66
+"Mujeres",FALSE,"Usuario de nivel básico",26.1
+"Mujeres",FALSE,"No usuario de las TIC",0

@@ -1,0 +1,313 @@
+"sexo","subsector","sector","TIC","porcentaje"
+"Ambos sexos","Agricultura","Primario","No usuario de las TIC",0.9
+"Ambos sexos","Agricultura","Primario","Usuario de nivel avanzado",62.9
+"Ambos sexos","Agricultura","Primario","Usuario de nivel básico",28.9
+"Ambos sexos","Agricultura","Primario","Usuario experto",7.3
+"Ambos sexos","Silvicultura","Primario","No usuario de las TIC",0.55
+"Ambos sexos","Silvicultura","Primario","Usuario de nivel avanzado",63.75
+"Ambos sexos","Silvicultura","Primario","Usuario de nivel básico",29.3
+"Ambos sexos","Silvicultura","Primario","Usuario experto",6.4
+"Ambos sexos","Pesca","Primario","No usuario de las TIC",0
+"Ambos sexos","Pesca","Primario","Usuario de nivel avanzado",63.3
+"Ambos sexos","Pesca","Primario","Usuario de nivel básico",16.1
+"Ambos sexos","Pesca","Primario","Usuario experto",20.6
+"Ambos sexos","Industria de la alimentación","Secundario","No usuario de las TIC",0
+"Ambos sexos","Industria de la alimentación","Secundario","Usuario de nivel avanzado",73.6
+"Ambos sexos","Industria de la alimentación","Secundario","Usuario de nivel básico",18.8
+"Ambos sexos","Industria de la alimentación","Secundario","Usuario experto",7.6
+"Ambos sexos","Industria química","Secundario","No usuario de las TIC",0.6
+"Ambos sexos","Industria química","Secundario","Usuario de nivel avanzado",67.97
+"Ambos sexos","Industria química","Secundario","Usuario de nivel básico",13.13
+"Ambos sexos","Industria química","Secundario","Usuario experto",18.23
+"Ambos sexos","Imagen personal","Terciario","No usuario de las TIC",0
+"Ambos sexos","Imagen personal","Terciario","Usuario de nivel avanzado",63.1
+"Ambos sexos","Imagen personal","Terciario","Usuario de nivel básico",29.3
+"Ambos sexos","Imagen personal","Terciario","Usuario experto",7.67
+"Ambos sexos","Sanidad","Terciario","No usuario de las TIC",0
+"Ambos sexos","Sanidad","Terciario","Usuario de nivel avanzado",66.62
+"Ambos sexos","Sanidad","Terciario","Usuario de nivel básico",24.3
+"Ambos sexos","Sanidad","Terciario","Usuario experto",9.12
+"Ambos sexos","Seguridad","Terciario","No usuario de las TIC",0.8
+"Ambos sexos","Seguridad","Terciario","Usuario de nivel avanzado",76.9
+"Ambos sexos","Seguridad","Terciario","Usuario de nivel básico",13.3
+"Ambos sexos","Seguridad","Terciario","Usuario experto",8.9
+"Ambos sexos","Mecánica","Secundario","No usuario de las TIC",2.75
+"Ambos sexos","Mecánica","Secundario","Usuario de nivel avanzado",57.55
+"Ambos sexos","Mecánica","Secundario","Usuario de nivel básico",21.15
+"Ambos sexos","Mecánica","Secundario","Usuario experto",18.45
+"Ambos sexos","Metalurgia","Secundario","No usuario de las TIC",0.5
+"Ambos sexos","Metalurgia","Secundario","Usuario de nivel avanzado",62.8
+"Ambos sexos","Metalurgia","Secundario","Usuario de nivel básico",15.2
+"Ambos sexos","Metalurgia","Secundario","Usuario experto",21.4
+"Ambos sexos","Instalación y mantenimiento","Secundario","No usuario de las TIC",0.05
+"Ambos sexos","Instalación y mantenimiento","Secundario","Usuario de nivel avanzado",71.4
+"Ambos sexos","Instalación y mantenimiento","Secundario","Usuario de nivel básico",18.6
+"Ambos sexos","Instalación y mantenimiento","Secundario","Usuario experto",9.95
+"Ambos sexos","Mecatrónica","Secundario","No usuario de las TIC",0.2
+"Ambos sexos","Mecatrónica","Secundario","Usuario de nivel avanzado",55.9
+"Ambos sexos","Mecatrónica","Secundario","Usuario de nivel básico",28.2
+"Ambos sexos","Mecatrónica","Secundario","Usuario experto",15.7
+"Ambos sexos","Electricidad y electrónica","Secundario","No usuario de las TIC",0.16
+"Ambos sexos","Electricidad y electrónica","Secundario","Usuario de nivel avanzado",44.82
+"Ambos sexos","Electricidad y electrónica","Secundario","Usuario de nivel básico",9.54
+"Ambos sexos","Electricidad y electrónica","Secundario","Usuario experto",45.44
+"Ambos sexos","Energía y agua","Secundario","No usuario de las TIC",0
+"Ambos sexos","Energía y agua","Secundario","Usuario de nivel avanzado",72.1
+"Ambos sexos","Energía y agua","Secundario","Usuario de nivel básico",8.1
+"Ambos sexos","Energía y agua","Secundario","Usuario experto",19.9
+"Ambos sexos","Transporte","Terciario","No usuario de las TIC",0.7
+"Ambos sexos","Transporte","Terciario","Usuario de nivel avanzado",64.55
+"Ambos sexos","Transporte","Terciario","Usuario de nivel básico",19.3
+"Ambos sexos","Transporte","Terciario","Usuario experto",15.45
+"Ambos sexos","Construcción","Secundario","No usuario de las TIC",0
+"Ambos sexos","Construcción","Secundario","Usuario de nivel avanzado",67.7
+"Ambos sexos","Construcción","Secundario","Usuario de nivel básico",8.57
+"Ambos sexos","Construcción","Secundario","Usuario experto",23.77
+"Ambos sexos","Imagen y sonido","Terciario","No usuario de las TIC",0.13
+"Ambos sexos","Imagen y sonido","Terciario","Usuario de nivel avanzado",61.37
+"Ambos sexos","Imagen y sonido","Terciario","Usuario de nivel básico",8.47
+"Ambos sexos","Imagen y sonido","Terciario","Usuario experto",30.05
+"Ambos sexos","Informática y comunicaciones","Terciario","No usuario de las TIC",0
+"Ambos sexos","Informática y comunicaciones","Terciario","Usuario de nivel avanzado",5.75
+"Ambos sexos","Informática y comunicaciones","Terciario","Usuario de nivel básico",0.45
+"Ambos sexos","Informática y comunicaciones","Terciario","Usuario experto",93.85
+"Ambos sexos","Administración","Terciario","No usuario de las TIC",0
+"Ambos sexos","Administración","Terciario","Usuario de nivel avanzado",71.93
+"Ambos sexos","Administración","Terciario","Usuario de nivel básico",9
+"Ambos sexos","Administración","Terciario","Usuario experto",19.03
+"Ambos sexos","Comercio y marketing","Terciario","No usuario de las TIC",0.07
+"Ambos sexos","Comercio y marketing","Terciario","Usuario de nivel avanzado",71.7
+"Ambos sexos","Comercio y marketing","Terciario","Usuario de nivel básico",9.7
+"Ambos sexos","Comercio y marketing","Terciario","Usuario experto",18.57
+"Ambos sexos","Servicios sociales","Terciario","No usuario de las TIC",0.1
+"Ambos sexos","Servicios sociales","Terciario","Usuario de nivel avanzado",69.63
+"Ambos sexos","Servicios sociales","Terciario","Usuario de nivel básico",24.7
+"Ambos sexos","Servicios sociales","Terciario","Usuario experto",5.53
+"Ambos sexos","Educación","Terciario","No usuario de las TIC",0
+"Ambos sexos","Educación","Terciario","Usuario de nivel avanzado",70.4
+"Ambos sexos","Educación","Terciario","Usuario de nivel básico",24
+"Ambos sexos","Educación","Terciario","Usuario experto",5.7
+"Ambos sexos","Hostelería y turismo","Terciario","No usuario de las TIC",0.05
+"Ambos sexos","Hostelería y turismo","Terciario","Usuario de nivel avanzado",65.55
+"Ambos sexos","Hostelería y turismo","Terciario","Usuario de nivel básico",22.93
+"Ambos sexos","Hostelería y turismo","Terciario","Usuario experto",11.47
+"Ambos sexos","Deporte","Terciario","No usuario de las TIC",0.8
+"Ambos sexos","Deporte","Terciario","Usuario de nivel avanzado",66.3
+"Ambos sexos","Deporte","Terciario","Usuario de nivel básico",22.3
+"Ambos sexos","Deporte","Terciario","Usuario experto",10.6
+"Ambos sexos","Artesanía","Secundario","No usuario de las TIC",0
+"Ambos sexos","Artesanía","Secundario","Usuario de nivel avanzado",73.2
+"Ambos sexos","Artesanía","Secundario","Usuario de nivel básico",17.9
+"Ambos sexos","Artesanía","Secundario","Usuario experto",8.8
+"Ambos sexos","Total","N/A","No usuario de las TIC",0.2
+"Ambos sexos","Total","N/A","Usuario de nivel avanzado",60.8
+"Ambos sexos","Total","N/A","Usuario de nivel básico",17.2
+"Ambos sexos","Total","N/A","Usuario experto",21.8
+"Hombres","Agricultura","Primario","No usuario de las TIC",1.1
+"Hombres","Agricultura","Primario","Usuario de nivel avanzado",62.5
+"Hombres","Agricultura","Primario","Usuario de nivel básico",30.3
+"Hombres","Agricultura","Primario","Usuario experto",6.2
+"Hombres","Silvicultura","Primario","No usuario de las TIC",0.7
+"Hombres","Silvicultura","Primario","Usuario de nivel avanzado",63.6
+"Hombres","Silvicultura","Primario","Usuario de nivel básico",30.6
+"Hombres","Silvicultura","Primario","Usuario experto",5.1
+"Hombres","Pesca","Primario","No usuario de las TIC",0
+"Hombres","Pesca","Primario","Usuario de nivel avanzado",63.4
+"Hombres","Pesca","Primario","Usuario de nivel básico",16
+"Hombres","Pesca","Primario","Usuario experto",20.6
+"Hombres","Industria de la alimentación","Secundario","No usuario de las TIC",0
+"Hombres","Industria de la alimentación","Secundario","Usuario de nivel avanzado",68.7
+"Hombres","Industria de la alimentación","Secundario","Usuario de nivel básico",22.1
+"Hombres","Industria de la alimentación","Secundario","Usuario experto",9.2
+"Hombres","Industria química","Secundario","No usuario de las TIC",1.03
+"Hombres","Industria química","Secundario","Usuario de nivel avanzado",65.57
+"Hombres","Industria química","Secundario","Usuario de nivel básico",6.57
+"Hombres","Industria química","Secundario","Usuario experto",26.83
+"Hombres","Imagen personal","Terciario","No usuario de las TIC",0
+"Hombres","Imagen personal","Terciario","Usuario de nivel avanzado",47.2
+"Hombres","Imagen personal","Terciario","Usuario de nivel básico",32.93
+"Hombres","Imagen personal","Terciario","Usuario experto",19.87
+"Hombres","Sanidad","Terciario","No usuario de las TIC",0
+"Hombres","Sanidad","Terciario","Usuario de nivel avanzado",67.06
+"Hombres","Sanidad","Terciario","Usuario de nivel básico",21.14
+"Hombres","Sanidad","Terciario","Usuario experto",11.8
+"Hombres","Seguridad","Terciario","No usuario de las TIC",1.6
+"Hombres","Seguridad","Terciario","Usuario de nivel avanzado",78.3
+"Hombres","Seguridad","Terciario","Usuario de nivel básico",10.8
+"Hombres","Seguridad","Terciario","Usuario experto",9.4
+"Hombres","Mecánica","Secundario","No usuario de las TIC",2.95
+"Hombres","Mecánica","Secundario","Usuario de nivel avanzado",58.3
+"Hombres","Mecánica","Secundario","Usuario de nivel básico",19.75
+"Hombres","Mecánica","Secundario","Usuario experto",19.05
+"Hombres","Metalurgia","Secundario","No usuario de las TIC",0.6
+"Hombres","Metalurgia","Secundario","Usuario de nivel avanzado",61.1
+"Hombres","Metalurgia","Secundario","Usuario de nivel básico",16
+"Hombres","Metalurgia","Secundario","Usuario experto",22.4
+"Hombres","Instalación y mantenimiento","Secundario","No usuario de las TIC",0.05
+"Hombres","Instalación y mantenimiento","Secundario","Usuario de nivel avanzado",71.5
+"Hombres","Instalación y mantenimiento","Secundario","Usuario de nivel básico",18.6
+"Hombres","Instalación y mantenimiento","Secundario","Usuario experto",9.8
+"Hombres","Mecatrónica","Secundario","No usuario de las TIC",0.2
+"Hombres","Mecatrónica","Secundario","Usuario de nivel avanzado",55.7
+"Hombres","Mecatrónica","Secundario","Usuario de nivel básico",28.3
+"Hombres","Mecatrónica","Secundario","Usuario experto",15.8
+"Hombres","Electricidad y electrónica","Secundario","No usuario de las TIC",0.18
+"Hombres","Electricidad y electrónica","Secundario","Usuario de nivel avanzado",44.22
+"Hombres","Electricidad y electrónica","Secundario","Usuario de nivel básico",9.8
+"Hombres","Electricidad y electrónica","Secundario","Usuario experto",45.84
+"Hombres","Energía y agua","Secundario","No usuario de las TIC",0
+"Hombres","Energía y agua","Secundario","Usuario de nivel avanzado",71.8
+"Hombres","Energía y agua","Secundario","Usuario de nivel básico",8.7
+"Hombres","Energía y agua","Secundario","Usuario experto",19.5
+"Hombres","Transporte","Terciario","No usuario de las TIC",1.15
+"Hombres","Transporte","Terciario","Usuario de nivel avanzado",63.95
+"Hombres","Transporte","Terciario","Usuario de nivel básico",18.4
+"Hombres","Transporte","Terciario","Usuario experto",16.5
+"Hombres","Construcción","Secundario","No usuario de las TIC",0
+"Hombres","Construcción","Secundario","Usuario de nivel avanzado",62.17
+"Hombres","Construcción","Secundario","Usuario de nivel básico",9.47
+"Hombres","Construcción","Secundario","Usuario experto",28.4
+"Hombres","Imagen y sonido","Terciario","No usuario de las TIC",0.25
+"Hombres","Imagen y sonido","Terciario","Usuario de nivel avanzado",54.75
+"Hombres","Imagen y sonido","Terciario","Usuario de nivel básico",7.55
+"Hombres","Imagen y sonido","Terciario","Usuario experto",37.45
+"Hombres","Informática y comunicaciones","Terciario","No usuario de las TIC",0
+"Hombres","Informática y comunicaciones","Terciario","Usuario de nivel avanzado",4.3
+"Hombres","Informática y comunicaciones","Terciario","Usuario de nivel básico",0.38
+"Hombres","Informática y comunicaciones","Terciario","Usuario experto",95.33
+"Hombres","Administración","Terciario","No usuario de las TIC",0
+"Hombres","Administración","Terciario","Usuario de nivel avanzado",69.13
+"Hombres","Administración","Terciario","Usuario de nivel básico",7.9
+"Hombres","Administración","Terciario","Usuario experto",23.07
+"Hombres","Comercio y marketing","Terciario","No usuario de las TIC",0.1
+"Hombres","Comercio y marketing","Terciario","Usuario de nivel avanzado",64.47
+"Hombres","Comercio y marketing","Terciario","Usuario de nivel básico",8.63
+"Hombres","Comercio y marketing","Terciario","Usuario experto",26.8
+"Hombres","Servicios sociales","Terciario","No usuario de las TIC",0.47
+"Hombres","Servicios sociales","Terciario","Usuario de nivel avanzado",66.83
+"Hombres","Servicios sociales","Terciario","Usuario de nivel básico",20.97
+"Hombres","Servicios sociales","Terciario","Usuario experto",11.73
+"Hombres","Educación","Terciario","No usuario de las TIC",0
+"Hombres","Educación","Terciario","Usuario de nivel avanzado",58.2
+"Hombres","Educación","Terciario","Usuario de nivel básico",29.1
+"Hombres","Educación","Terciario","Usuario experto",12.8
+"Hombres","Hostelería y turismo","Terciario","No usuario de las TIC",0.07
+"Hombres","Hostelería y turismo","Terciario","Usuario de nivel avanzado",63.48
+"Hombres","Hostelería y turismo","Terciario","Usuario de nivel básico",19.1
+"Hombres","Hostelería y turismo","Terciario","Usuario experto",17.38
+"Hombres","Deporte","Terciario","No usuario de las TIC",1
+"Hombres","Deporte","Terciario","Usuario de nivel avanzado",64.8
+"Hombres","Deporte","Terciario","Usuario de nivel básico",22.3
+"Hombres","Deporte","Terciario","Usuario experto",11.9
+"Hombres","Artesanía","Secundario","No usuario de las TIC",0
+"Hombres","Artesanía","Secundario","Usuario de nivel avanzado",76.1
+"Hombres","Artesanía","Secundario","Usuario de nivel básico",14.8
+"Hombres","Artesanía","Secundario","Usuario experto",9.1
+"Hombres","Total","N/A","No usuario de las TIC",0.4
+"Hombres","Total","N/A","Usuario de nivel avanzado",53.2
+"Hombres","Total","N/A","Usuario de nivel básico",13.9
+"Hombres","Total","N/A","Usuario experto",32.5
+"Mujeres","Agricultura","Primario","No usuario de las TIC",0
+"Mujeres","Agricultura","Primario","Usuario de nivel avanzado",64.7
+"Mujeres","Agricultura","Primario","Usuario de nivel básico",23.3
+"Mujeres","Agricultura","Primario","Usuario experto",12
+"Mujeres","Silvicultura","Primario","No usuario de las TIC",0
+"Mujeres","Silvicultura","Primario","Usuario de nivel avanzado",64.45
+"Mujeres","Silvicultura","Primario","Usuario de nivel básico",24.05
+"Mujeres","Silvicultura","Primario","Usuario experto",11.5
+"Mujeres","Pesca","Primario","No usuario de las TIC",0
+"Mujeres","Pesca","Primario","Usuario de nivel avanzado",62
+"Mujeres","Pesca","Primario","Usuario de nivel básico",17
+"Mujeres","Pesca","Primario","Usuario experto",21.1
+"Mujeres","Industria de la alimentación","Secundario","No usuario de las TIC",0
+"Mujeres","Industria de la alimentación","Secundario","Usuario de nivel avanzado",78.4
+"Mujeres","Industria de la alimentación","Secundario","Usuario de nivel básico",15.6
+"Mujeres","Industria de la alimentación","Secundario","Usuario experto",6
+"Mujeres","Industria química","Secundario","No usuario de las TIC",0
+"Mujeres","Industria química","Secundario","Usuario de nivel avanzado",70.43
+"Mujeres","Industria química","Secundario","Usuario de nivel básico",19.47
+"Mujeres","Industria química","Secundario","Usuario experto",10.07
+"Mujeres","Imagen personal","Terciario","No usuario de las TIC",0
+"Mujeres","Imagen personal","Terciario","Usuario de nivel avanzado",63.7
+"Mujeres","Imagen personal","Terciario","Usuario de nivel básico",29.07
+"Mujeres","Imagen personal","Terciario","Usuario experto",7.23
+"Mujeres","Sanidad","Terciario","No usuario de las TIC",0
+"Mujeres","Sanidad","Terciario","Usuario de nivel avanzado",66.38
+"Mujeres","Sanidad","Terciario","Usuario de nivel básico",25.38
+"Mujeres","Sanidad","Terciario","Usuario experto",8.26
+"Mujeres","Seguridad","Terciario","No usuario de las TIC",0
+"Mujeres","Seguridad","Terciario","Usuario de nivel avanzado",75.4
+"Mujeres","Seguridad","Terciario","Usuario de nivel básico",16.2
+"Mujeres","Seguridad","Terciario","Usuario experto",8.4
+"Mujeres","Mecánica","Secundario","No usuario de las TIC",0
+"Mujeres","Mecánica","Secundario","Usuario de nivel avanzado",41.5
+"Mujeres","Mecánica","Secundario","Usuario de nivel básico",49.45
+"Mujeres","Mecánica","Secundario","Usuario experto",9.05
+"Mujeres","Metalurgia","Secundario","No usuario de las TIC",0
+"Mujeres","Metalurgia","Secundario","Usuario de nivel avanzado",76.5
+"Mujeres","Metalurgia","Secundario","Usuario de nivel básico",9.2
+"Mujeres","Metalurgia","Secundario","Usuario experto",14.3
+"Mujeres","Instalación y mantenimiento","Secundario","No usuario de las TIC",0
+"Mujeres","Instalación y mantenimiento","Secundario","Usuario de nivel avanzado",67
+"Mujeres","Instalación y mantenimiento","Secundario","Usuario de nivel básico",17.35
+"Mujeres","Instalación y mantenimiento","Secundario","Usuario experto",15.65
+"Mujeres","Mecatrónica","Secundario","No usuario de las TIC",0
+"Mujeres","Mecatrónica","Secundario","Usuario de nivel avanzado",65.9
+"Mujeres","Mecatrónica","Secundario","Usuario de nivel básico",24
+"Mujeres","Mecatrónica","Secundario","Usuario experto",10.1
+"Mujeres","Electricidad y electrónica","Secundario","No usuario de las TIC",0
+"Mujeres","Electricidad y electrónica","Secundario","Usuario de nivel avanzado",58.02
+"Mujeres","Electricidad y electrónica","Secundario","Usuario de nivel básico",4.12
+"Mujeres","Electricidad y electrónica","Secundario","Usuario experto",37.86
+"Mujeres","Energía y agua","Secundario","No usuario de las TIC",0
+"Mujeres","Energía y agua","Secundario","Usuario de nivel avanzado",74.3
+"Mujeres","Energía y agua","Secundario","Usuario de nivel básico",1.8
+"Mujeres","Energía y agua","Secundario","Usuario experto",23.9
+"Mujeres","Transporte","Terciario","No usuario de las TIC",0
+"Mujeres","Transporte","Terciario","Usuario de nivel avanzado",63.35
+"Mujeres","Transporte","Terciario","Usuario de nivel básico",24.5
+"Mujeres","Transporte","Terciario","Usuario experto",12.15
+"Mujeres","Construcción","Secundario","No usuario de las TIC",0
+"Mujeres","Construcción","Secundario","Usuario de nivel avanzado",78.8
+"Mujeres","Construcción","Secundario","Usuario de nivel básico",6.57
+"Mujeres","Construcción","Secundario","Usuario experto",14.6
+"Mujeres","Imagen y sonido","Terciario","No usuario de las TIC",0
+"Mujeres","Imagen y sonido","Terciario","Usuario de nivel avanzado",71.4
+"Mujeres","Imagen y sonido","Terciario","Usuario de nivel básico",9.57
+"Mujeres","Imagen y sonido","Terciario","Usuario experto",19.05
+"Mujeres","Informática y comunicaciones","Terciario","No usuario de las TIC",0
+"Mujeres","Informática y comunicaciones","Terciario","Usuario de nivel avanzado",16.2
+"Mujeres","Informática y comunicaciones","Terciario","Usuario de nivel básico",0.9
+"Mujeres","Informática y comunicaciones","Terciario","Usuario experto",82.9
+"Mujeres","Administración","Terciario","No usuario de las TIC",0
+"Mujeres","Administración","Terciario","Usuario de nivel avanzado",72.3
+"Mujeres","Administración","Terciario","Usuario de nivel básico",9.7
+"Mujeres","Administración","Terciario","Usuario experto",17.97
+"Mujeres","Comercio y marketing","Terciario","No usuario de las TIC",0
+"Mujeres","Comercio y marketing","Terciario","Usuario de nivel avanzado",78.43
+"Mujeres","Comercio y marketing","Terciario","Usuario de nivel básico",10.63
+"Mujeres","Comercio y marketing","Terciario","Usuario experto",10.9
+"Mujeres","Servicios sociales","Terciario","No usuario de las TIC",0
+"Mujeres","Servicios sociales","Terciario","Usuario de nivel avanzado",70.27
+"Mujeres","Servicios sociales","Terciario","Usuario de nivel básico",25.1
+"Mujeres","Servicios sociales","Terciario","Usuario experto",4.67
+"Mujeres","Educación","Terciario","No usuario de las TIC",0
+"Mujeres","Educación","Terciario","Usuario de nivel avanzado",71.1
+"Mujeres","Educación","Terciario","Usuario de nivel básico",23.7
+"Mujeres","Educación","Terciario","Usuario experto",5.2
+"Mujeres","Hostelería y turismo","Terciario","No usuario de las TIC",0
+"Mujeres","Hostelería y turismo","Terciario","Usuario de nivel avanzado",65.47
+"Mujeres","Hostelería y turismo","Terciario","Usuario de nivel básico",25.8
+"Mujeres","Hostelería y turismo","Terciario","Usuario experto",8.73
+"Mujeres","Deporte","Terciario","No usuario de las TIC",0
+"Mujeres","Deporte","Terciario","Usuario de nivel avanzado",73
+"Mujeres","Deporte","Terciario","Usuario de nivel básico",22.1
+"Mujeres","Deporte","Terciario","Usuario experto",4.9
+"Mujeres","Artesanía","Secundario","No usuario de las TIC",0
+"Mujeres","Artesanía","Secundario","Usuario de nivel avanzado",71.2
+"Mujeres","Artesanía","Secundario","Usuario de nivel básico",20.1
+"Mujeres","Artesanía","Secundario","Usuario experto",8.7
+"Mujeres","Total","N/A","No usuario de las TIC",0
+"Mujeres","Total","N/A","Usuario de nivel avanzado",68
+"Mujeres","Total","N/A","Usuario de nivel básico",20.3
+"Mujeres","Total","N/A","Usuario experto",11.7
